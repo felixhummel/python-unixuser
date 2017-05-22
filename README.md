@@ -7,3 +7,5 @@
 'alice@example.com'
 ```
 
+Inspired by http://www.asmeurer.com/python3-presentation/slides.html#69
+
